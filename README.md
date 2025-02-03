@@ -72,8 +72,9 @@ The dataset consists of passenger details, including:
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## 📜 License
-This project is licensed under the MIT License.
+
+
+![Tianic Frontend](https://github.com/user-attachments/assets/9a0eb1a4-bafa-443c-add7-de6b562c9a45)
 
 ---
 
