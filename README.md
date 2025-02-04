@@ -48,7 +48,7 @@ The dataset consists of passenger details, including:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-survival-prediction.git
+   git clone https://github.com/AnkitKumarthakur01/titanic-survival-prediction.git
    ```
 2. Install dependencies:
    ```bash
@@ -78,5 +78,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-**👨‍💻 Author:** Your Name  
+**👨‍💻 Author:*Ankit Kumar*  
 **🌐 GitHub:*https://github.com/AnkitKumarthakur01* 
